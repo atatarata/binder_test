@@ -1,0 +1,2 @@
+numpy==1.18.1
+nbinteract==0.2.5
